@@ -1,6 +1,10 @@
 .Background{
     background-color: #363062;
     padding-bottom: 30px;
+    text-align: center;
+    font-size: xx-large;
+    color: beige;
+    
 }
 .Topic{
     color: cyan;
