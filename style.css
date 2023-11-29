@@ -1,4 +1,4 @@
-.Background{
+.Home-Screen{
     background-color: #363062;
     padding-bottom: 30px;
     text-align: center;
@@ -6,7 +6,7 @@
     color: beige;
     
 }
-.Topic{
+.Heading{
     color: cyan;
     padding: 15px;
     text-align: center;
